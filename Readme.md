@@ -1,13 +1,7 @@
 <h1 align="center">Hola 👋, soy Rodrigo!</h1>
 <h3 align="center">Soy un QA Tester en formación, apasionado por la tecnología y la calidad del software, con un interés particular en la automatización</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigonegrin&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigonegrin" /> </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rodrigonegrin" alt="rodrigonegrin" />
-  </a> 
-</p>
 
 - 🔭 Actualmente trabajando en **UPEX GALAXY**
 
@@ -41,10 +35,4 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigonegrin&show_icons=true&locale=en&layout=compact" alt="rodrigonegrin" />
-</p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigonegrin&show_icons=true&locale=en" alt="rodrigonegrin" />
-</p>
