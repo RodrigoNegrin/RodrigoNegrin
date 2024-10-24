@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Rodrigo!</h1>
-<h3 align="center">Soy QA Analysy y QA Tester, apasionado por la tecnología y la calidad del software, con un interés particular en la automatización</h3>
+<h3 align="center">Soy QA Analyst y QA Tester, apasionado por la tecnología y la calidad del software, con un interés particular en la automatización</h3>
 
 
 
