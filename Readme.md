@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Rodrigo!</h1>
-<h3 align="center">Soy QA Analyst y QA Tester, apasionado por la tecnología y la calidad del software, con un interés particular en la automatización</h3>
+<h3 align="center">Soy QA Analyst y QA Automation, apasionado por la tecnología y la calidad del software, con un interés particular en el desarrollo Backend</h3>
 
 
 
-- 🔭 Actualmente trabajando en **UPEX GALAXY**
+- 🔭 Actualmente en búsqueda de **Nuevas oportunidades**
 
-- 🌱 Actualmente aprendiendo **Javascript**
+- 🌱 Actualmente cursando **Licenciatura en Tecnologías de la información**
 
 - 📫 Cómo contactarme **rodrigonegrinperez@gmail.com**
 
